@@ -89,15 +89,15 @@ The project compares the performance of different regression models in predictin
 - 🧠 Conjure advanced ML sorcery
 - 🌐 Craft a web portal for real-time quake divinations
 
-## Contributing
+## 🤝 Contributing
 
 Contributions to improve the project are welcome. Please feel free to fork the repository and submit pull requests.
 
-## License
+## 📜 License
 
 This project is open-source and licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
-## Contact
+## 📞 Contact
 
 For any queries or suggestions, please contact:
 Vaikunth Desai - vdclassifier@gmail.com
