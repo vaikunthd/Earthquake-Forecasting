@@ -13,6 +13,10 @@
 
 ---
 
+## 📝 Background
+
+Earthquakes are among the most devastating natural disasters, causing significant loss of life and property worldwide. Accurate forecasting of earthquake magnitudes can help improve disaster preparedness and risk mitigation. This project leverages machine learning to analyze seismic data and predict earthquake magnitudes, aiming to contribute to early warning systems and informed decision-making.
+
 ## 🎯 Project Scope
 
 Dive into the world of seismic prediction with our cutting-edge ML models:
@@ -81,7 +85,19 @@ To unleash the power of earthquake prediction, summon these Python artifacts:
 
 ## 📊 Results
 
-The project compares the performance of different regression models in predicting earthquake magnitudes. Detailed results and visualizations can be found in the Jupyter Notebook.
+The project compares the performance of different regression models in predicting earthquake magnitudes. 
+
+*Example results:*
+- **Random Forest Regressor:** MSE = 0.2514, R² = 0.8471
+- **KNN Regressor:** MSE = 0.3168, R² = 0.8073
+
+Detailed results and visualizations can be found in the Jupyter Notebook.
+
+## ⚠️ Limitations
+
+- The analysis is based on historical seismic data, which may not capture all influencing geological factors.
+- Model predictions may not generalize to regions or seismic events not represented in the training data.
+- Earthquake forecasting remains inherently uncertain due to the complex and chaotic nature of seismic activity.
 
 ## 🔮 Future Visions
 
