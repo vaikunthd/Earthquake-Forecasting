@@ -91,7 +91,7 @@ The project compares the performance of different regression models in predictin
 - **Random Forest Regressor:** MSE = 0.2514, R² = 0.8471
 - **KNN Regressor:** MSE = 0.3168, R² = 0.8073
 
-Detailed results and visualizations can be found in the Jupyter Notebook.
+Detailed results and visualizations are available in the Jupyter Notebook.
 
 ## ⚠️ Limitations
 
